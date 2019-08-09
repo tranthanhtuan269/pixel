@@ -1,0 +1,6 @@
+.c9/*
+.idea
+app/Config/database.php
+app/tmp
+app/webroot/medias
+#.gitignore
